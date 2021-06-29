@@ -40,7 +40,8 @@
 				.conrad {
 					background: -webkit-linear-gradient(right,#fe5858,#ee9617
 );
-				  background: linear-gradient(270deg,#c700ff 0,#46a0ff);
+				  background: linear-gradient(270deg,#fe5858 0,#ee9617
+);
 				  background-size: 350%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
