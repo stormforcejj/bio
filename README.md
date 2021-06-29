@@ -1,9 +1,9 @@
 <h1 align="left">
-  <img src="https://raw.githubusercontent.com/cnrad/cnrad/main/header.svg" alt="Hi there, I'm Conrad" />
+  <img src="https://raw.githubusercontent.com/stormforcejj/bio/1d288f4fd5bea964f21eb5a6c2c5c383cd5e928a/header.svg" alt="Hey, I'm Storm." />
 </h1>
 
-<a href="https://discord.com/users/705665813994012695">
-  <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695" align="right" />
+<a href="https://discord.com/users/399940580932714496">
+  <img src="https://lanyard-profile-readme.vercel.app/api/399940580932714496" align="right" />
 </a>
                                                                                    
 ### 16, aspiring full-stack TypeScript developer.
@@ -20,5 +20,3 @@
   - Redis
   - Docker
 
-\
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcnrad&count_bg=%230263A4&title_bg=%23002D53&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
