@@ -38,9 +38,9 @@
 					-webkit-text-stroke: 1px white;
 				}
 				.conrad {
-					background: -webkit-linear-gradient(right,#fe5858,#ee9617
+					background: -webkit-linear-gradient(right,#AD1DEB,#6617CB
 );
-				  background: linear-gradient(270deg,#AD1DEB 0,##6617CB
+				  background: linear-gradient(270deg,#AD1DEB 0,#6617CB
 );
 				  background-size: 350%;
 				  background-clip: text;
