@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://raw.githubusercontent.com/stormforcejj/bio/1d288f4fd5bea964f21eb5a6c2c5c383cd5e928a/header.svg" alt="Hey, I'm Storm." />
+  <img src="https://raw.githubusercontent.com/stormforcejj/stormforcejj/main/header.svg" alt="Hey, I'm Storm." />
 </h1>
 
 <a href="discord://discord.com/users/399940580932714496">
