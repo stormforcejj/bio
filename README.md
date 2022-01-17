@@ -22,10 +22,6 @@ I'm an aspiring developer, journalist and radio presenter! I work at UpBeatRadio
 ### Frameworks
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 
-### Positions
-Illamanati Developers - CEO
-UpBeat Trucking - Lead Developer
-
 ### GitHub Stats
 <p><img src="https://github.com/stormforcejj/github-stats-transparent/blob/output/generated/overview.svg" alt="" style="max-width:100%;">
 <img src="https://github.com/stormforcejj/github-stats-transparent/blob/output/generated/languages.svg" alt="" style="max-width:100%;"></p>
