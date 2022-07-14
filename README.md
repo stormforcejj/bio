@@ -14,7 +14,6 @@ I'm an aspiring developer, journalist and radio presenter!
 
 ### 🔗Links
 - 🌍 **Site:** http://stormforcejj.co.uk
-- 📻 **UpBeat:** http://upbeatradio.net
 - 📕 **Polywork** http://poly.stormforcejj.co.uk
 
 ### GitHub Stats
