@@ -12,7 +12,6 @@ I'm an aspiring developer, journalist and radio presenter!<hr>
 <a href="discord://discord.com/users/399940580932714496">
   <img src="https://lanyard-profile-readme.vercel.app/api/399940580932714496" align="right" />
 </a>
-<hr>
 
 ### Contact Methods
 @stormforcejj on Instagram, Twitter and Discord!
