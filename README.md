@@ -14,11 +14,9 @@ I'm an aspiring developer, journalist and radio presenter!
 
 ### 🔗Links
 - 🌍 **Site:** http://stormforcejj.co.uk
-- 📕 **Polywork** http://poly.stormforcejj.co.uk
 
 ### GitHub Stats
-<p><img src="https://github.com/stormforcejj/github-stats-transparent/blob/output/generated/overview.svg" alt="" style="max-width:100%;">
-<img src="https://github.com/stormforcejj/github-stats-transparent/blob/output/generated/languages.svg" alt="" style="max-width:100%;"></p>
+![Storm's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormforcejj&show_icons=true&theme=dark&hide_border=true&bg_color=#151515)
 
 I'm always working to learn more langauges, and aim to become a full stack developer! If you have any questions or just want a chat don't hesitate to drop me a DM on Discord!
 
