@@ -10,7 +10,7 @@ I'm 17 years old and live in Wales. I am an aspiring developer, with a passion f
 ### GitHub Stats
 ![Storm's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormforcejj&show_icons=true&theme=dark&hide_border=true&bg_color=#151515)
 <a href="discord://discord.com/users/399940580932714496">
-  <img src="https://lanyard-profile-readme.vercel.app/api/399940580932714496" align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/399940580932714496" />
 </a>
 
 ### Contact Methods
