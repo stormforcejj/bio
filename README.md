@@ -14,4 +14,4 @@ I'm 17 years old and live in Wales. I am an aspiring developer, with a passion f
 </a>
 
 ### Contact Methods
-@stormforcejj on Instagram, Twitter and Discord!
+@stormforcejj on Discord!
