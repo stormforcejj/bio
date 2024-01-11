@@ -5,7 +5,7 @@
 
                                                                                    
 ### Hey, I'm Storm! 
-I'm 17 years old and live in Wales. I am an aspiring developer, with a passion for music and photography. I'm currently dabbling in NextJS and React. I also have experience in Java & Python among other things. <hr>
+I'm 18 years old and live in Wales. I am an aspiring developer, with a passion for music and photography. I'm currently dabbling in NextJS and React. I also have experience in Java & Python among other things. <hr>
 
 ### GitHub Stats
 ![Storm's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormforcejj&show_icons=true&theme=dark&hide_border=true&bg_color=#151515)
